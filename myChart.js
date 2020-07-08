@@ -3,7 +3,7 @@ var currentChart;
 document.getElementById('renderBtn').addEventListener('click', fetchData);
 
 
-// Get json data from world bank API
+// Get json data from world bank API (Maailmanpankin avoin rajapinta)
 async function fetchData() {
     var countryCode = document.getElementById('country').value;
     const indicatorCode = 'SP.POP.TOTL';
