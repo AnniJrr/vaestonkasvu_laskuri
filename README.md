@@ -11,6 +11,6 @@ Sovellus on tehty huhtikuussa 2020 Sympan järjestämällä verkkokurssilla "Web
 - Tämän jälkeen sovellus piirtää kaavion halutun maan väestönkasvusta 50 vuoden ajalta.
 
 
-** Lisätietoja sovelluksesta:
+## Lisätietoja sovelluksesta:
 Väestölaskuri-sovellus hakee datan ottamalla yhteyden Maailmanpankin avoimeen rajapintaan, josta se pyytää käyttäjän syöttämän valtion tiedot. Väestötiedot palautetaan viimeisen 50 vuoden ajalta (vuosilta 1970-2019). 
 
