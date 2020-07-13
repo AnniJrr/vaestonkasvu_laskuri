@@ -6,6 +6,6 @@ Sovellus on tehty huhtikuussa 2020 Sympan järjestämällä verkkokurssilla "Web
 **Tekniikat:** HTML, CSS, JavaScript
 
 # Käyttöohje:
-1. Kirjoita tekstikenttään haluamasi valtion maakoodi (esim. FIN, ITA tai USA).
-2. Klikkaa painiketta ” Render population graph”.
-3. Tämän jälkeen sovellus piirtää kaavion halutun maan väestönkasvusta 50 vuoden ajalta.
+- Kirjoita tekstikenttään haluamasi valtion maakoodi (esim. FIN, ITA tai USA).
+- Klikkaa painiketta ” Render population graph”.
+- Tämän jälkeen sovellus piirtää kaavion halutun maan väestönkasvusta 50 vuoden ajalta.
