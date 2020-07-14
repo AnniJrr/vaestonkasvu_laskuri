@@ -5,3 +5,12 @@
 .container {
     width: 75vw;
 }
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: 'rgba(75, 192, 192, 1)';
+    color: black;
+    text-align: center;
+}
