@@ -66,7 +66,13 @@ function renderChart(data, labels, countryName) {
                         beginAtZero: true
                     }
                 }]
+            },
+
+            animation: {    //animation duration 5 seconds (= 5 000 milliseconds)
+                duration: 5000
             }
+
         }
+
     });
 }

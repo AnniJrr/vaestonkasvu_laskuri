@@ -25,7 +25,6 @@ Sovellukseen on tulossa vielä:
 - siistimpi ulkoasu muokkaamalla sivun elementtejä (väriä, kokoa, sijaintia) 
 - käyttäjälle mahdollisuuksia datan rajaamiselle (väestön sukupuolen, ikäryhmien ja vuosilukujen mukaan) 
 - pudotusvalikko, josta käyttäjä voi valita haluamansa valtion maakoodin kirjoittamisen sijaan 
-- sivun alalaidan footer-osio, johon merkitään sivun tekijä ja datan lähdetiedot hyvän tavan mukaisesti 
 - poikkeusten käsittely mahdollisia virhetilanteita varten.
 
 Suunnitelmissa on myös kokeilla Väestölaskuri-projektin tekniikkaa muihin vastaaviin sisältöihin, kuten Helsingin kaupungin tarjoamaan avoimen rajapinnan dataan. Siellä kiinnostavia visualisointikohteita ovat esimerkiksi jatkuvasti päivittyvä data Helsingin uimavesien lämpötiloista ja talven liukastumisvaroitukset eri puolilla kaupunkia. Pienillä muokkauksilla sovelluksella saisi visualisoitua myös ajankohtaista tietoa koronaviruksesta. Dataa tähän tarjoavat niin Maailmanpankki kuin THL ja Helsinkin Sanomatkin.
